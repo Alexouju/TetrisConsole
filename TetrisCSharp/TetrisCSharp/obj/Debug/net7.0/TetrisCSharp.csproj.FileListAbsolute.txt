@@ -1,0 +1,28 @@
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.exe
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.deps.json
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.runtimeconfig.json
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.dll
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.pdb
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.AssemblyInfoInputs.cache
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.AssemblyInfo.cs
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.csproj.CoreCompileInputs.cache
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.dll
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\refint\TetrisCSharp.dll
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.pdb
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.genruntimeconfig.cache
+c:\Users\aleks\Documents\Mokslai2023\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\ref\TetrisCSharp.dll
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.exe
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.deps.json
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.runtimeconfig.json
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.dll
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\bin\Debug\net7.0\TetrisCSharp.pdb
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.dll
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\refint\TetrisCSharp.dll
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.pdb
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\TetrisCSharp.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Mokslai 2023-2024\ProgramuSistemoProjektavimas\Programavimo Projektai\TetrisCSharp\TetrisCSharp\obj\Debug\net7.0\ref\TetrisCSharp.dll
